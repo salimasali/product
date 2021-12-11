@@ -1,0 +1,17 @@
+.abcc{
+    width: 320px;
+    height: 500px;
+}
+.pic{
+    height: auto;
+    max-height: 250px;
+    width: auto;
+    max-width: 250px;
+}
+.div{
+    height: auto;
+    max-height: 50px;
+    width: auto;
+    max-width: 50px;
+
+}
